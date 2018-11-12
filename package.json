@@ -1,0 +1,24 @@
+{
+  "name": "codesandbox-theme",
+  "displayName": "Codesandbox Theme",
+  "description": "Codesandbox theme for VSCode.",
+  "version": "0.0.1",
+  "publisher": "ngryman",
+  "repository": "ngryman/vscode-theme",
+  "engines": {
+    "vscode": "^1.28.0"
+  },
+  "icon": "icon.png",
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Codesandbox",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Codesandbox-color-theme.json"
+      }
+    ]
+  }
+}
