@@ -2,14 +2,16 @@
   "name": "codesandbox-theme",
   "displayName": "CodeSandbox Theme",
   "description": "CodeSandbox theme for VSCode.",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "publisher": "ngryman",
   "repository": "ngryman/vscode-theme",
   "engines": {
     "vscode": "^1.28.0"
   },
   "icon": "icon.png",
-  "categories": ["Themes"],
+  "categories": [
+    "Themes"
+  ],
   "contributes": {
     "themes": [
       {
