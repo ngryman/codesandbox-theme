@@ -1,7 +1,7 @@
 {
   "name": "codesandbox-theme",
   "displayName": "CodeSandbox Theme",
-  "description": "CodesSandbox theme for VSCode.",
+  "description": "CodeSandbox theme for VSCode.",
   "version": "0.0.1",
   "publisher": "ngryman",
   "repository": "ngryman/vscode-theme",
