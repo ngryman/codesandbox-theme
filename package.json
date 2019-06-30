@@ -6,7 +6,7 @@
   "description": "CodeSandbox theme for VSCode.",
   "license": "MIT",
   "repository": {
-    "url": "https://github.com/ngryman/vscode-theme",
+    "url": "https://github.com/ngryman/codesandbox-theme",
     "type": "git"
   },
   "categories": [
