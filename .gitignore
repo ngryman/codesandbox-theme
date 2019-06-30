@@ -1,2 +1,14 @@
-node_modules
+# OS
+.DS_Store
+Desktop.ini
+._*
+Thumbs.db
+.Spotlight-V100
+.Trashes
+
+# Node
+node_modules/
+.log
+
+# VSCode
 .vsix
