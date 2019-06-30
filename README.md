@@ -1,3 +1,5 @@
-# Codesandbox theme
+# Codesandbox Theme
 
-This is the straight copy of the [codesandbox.io](https://codesandbox.io) theme.
+This is the official theme used by [codesandbox.io](https://codesandbox.io/).
+
+![Theme Preview](https://raw.githubusercontent.com/ngryman/codesandbox-theme/master/screenshot.png)
