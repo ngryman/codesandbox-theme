@@ -1,7 +1,9 @@
 # Change Log
-All notable changes to the "codesandbox-theme" extension will be documented in this file.
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+## [1.1.0] - 2019-06-30
 
-## [Unreleased]
+- Update theme to the latest version of Codesanbox.
+
+## [1.0.0] - 2018-11-12
+
 - Initial release
