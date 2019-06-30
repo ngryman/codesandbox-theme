@@ -1,15 +1,22 @@
 {
   "name": "codesandbox-theme",
   "displayName": "CodeSandbox Theme",
-  "description": "CodeSandbox theme for VSCode.",
   "version": "1.1.0",
   "publisher": "ngryman",
+  "description": "CodeSandbox theme for VSCode.",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/ngryman/vscode-theme",
+    "type": "git"
   },
-  "icon": "icon.png",
   "categories": [
     "Themes"
   ],
+  "icon": "media/icon.png",
+  "galleryBanner": {
+    "color": "#1c2022",
+    "theme": "dark"
+  },
   "engines": {
     "vscode": "^1.28.0"
   },
