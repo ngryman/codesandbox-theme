@@ -1,5 +1,13 @@
 # Change Log
 
+## [1.1.2] - 2019-06-30
+
+- Add metadata to for the VSCode marketplace.
+
+## [1.1.1] - 2019-06-30
+
+- Update readme.
+
 ## [1.1.0] - 2019-06-30
 
 - Update theme to the latest version of Codesanbox.
